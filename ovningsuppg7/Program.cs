@@ -4,7 +4,6 @@ namespace ovningsuppg7
 {
     class Vehicle
     {
-        //Fields el. Fält
         public string vehicleType;
         public string manufacture;
         public int amountOfWheels;
